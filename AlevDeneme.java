@@ -7,7 +7,7 @@ public class AlevDeneme {
 
 
      String rev = "revrse";
-
+    String str = "tem";
 
 
 
